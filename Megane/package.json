@@ -3,6 +3,11 @@
     "displayName": "Megane",
     "description": "Megane",
     "version": "0.0.1",
+    "publisher": "ZaimanAufarPurnama",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Zaiman22/MEGANE-THEME"
+    },
     "engines": {
         "vscode": "^1.68.0"
     },
